@@ -1,5 +1,6 @@
-Server-Side folder is placed in 
-client-Side folder is placed in 
+Server-Side folder is placed in master
+
+client-Side folder is placed in main
 
 This "CVE Information Management System" is a web application designed to address the challenges of consuming and storing CVE (Common Vulnerabilities and Exposures) information from the NIST CVE API. Leveraging React for the client-side interface, Node.js with Express for server-side logic, and MySQL for database management, the system efficiently retrieves, stores, and visualizes CVE data. By utilizing modern technologies such as axios for API consumption and cron for periodic synchronization, we can ensures up-to-date and organized CVE information. With React ,Node,Express and MySql the application provides a user-friendly interface for browsing CVE data, solving problems related to data management and visualization in vulnerability  management.
 
